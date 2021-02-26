@@ -1,4 +1,5 @@
 import avatar from '../images/avatar.png';
+import "../scss/Entete.scss";
 
 export default function Entete() {
   return (

@@ -1,0 +1,26 @@
+.Dossier {
+    .couverture {
+        .deplacer {
+            position: absolute;
+            z-index: 1;
+        }
+        img {
+            position: relative;
+        }
+    }
+
+    .info {
+        margin-left: 15px;
+        p {
+            margin: 0;
+            padding: 0;
+        }
+    }
+    button {
+        margin: 0;
+        padding: 0;
+        border: none;
+        background-color: transparent;
+        float: right;
+    }
+}

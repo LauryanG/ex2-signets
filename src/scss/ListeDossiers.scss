@@ -1,0 +1,12 @@
+.ListeDossiers {
+    margin: 50px 20px;
+    padding: 0;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    li {
+        margin: 0 15px 15px 15px;
+    }
+}
